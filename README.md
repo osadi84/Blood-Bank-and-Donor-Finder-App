@@ -2,7 +2,7 @@
 A mobile app that helps users find nearby blood donors based on blood type.
 
 Overview
-A mobile application developed using Android Studio (Jetpack Compose) to help users find nearby blood donors based on their blood type. Donors can register with their details, and users can easily search and contact suitable donors during emergencies.
+A mobile application developed using Android Studio to help users find nearby blood donors based on their blood type. Donors can register with their details, and users can easily search and contact suitable donors during emergencies.
 
 Objectives
 - Register donors with their details and blood group.
