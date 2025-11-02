@@ -34,7 +34,7 @@ Expected Outcome:
 A fully functional mobile application that allows users to search and contact nearby blood donors based on blood type efficiently and quickly.
 
 Group Members:
-1.	E.A.O. Romesha – GWU-HICT-2021-16
+1.	E.A.Osadi Romesha – GWU-HICT-2021-16
 2.	A.S. Ranasinghe – GWU-HICT-2021-14
 3.	A.H.S. Madhushika – GWU-HICT-2021-49
 4.	J. Sasika – GWU-HICT-2021-44
